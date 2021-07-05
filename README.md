@@ -6,7 +6,7 @@ This is Kelvin 😝 An undergraduate student
 - 🔭 I’m currently working on humanoid , computer vision ...
 - 📫 How to reach me: kelvinchen45ms@gmail.com 
 
-![MrKelvinChen's GitHub stats](https://github-readme-stats-nkr3an2gg-mrkelvinchen.vercel.app/api?username=MrKelvinChen&show_icons=true)
+![MrKelvinChen's GitHub stats](https://github-readme-stats-nkr3an2gg-mrkelvinchen.vercel.app/api?username=MrKelvinChen&show_icons=true&include_all_commits=true)
 
 <!--
 **MrKelvinChen/MrKelvinChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
