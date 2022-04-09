@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Kelvin 😝 An undergraduate student
+This is Kelvin 😝 An undergraduate student from Northwestern Polytenical Uninversity, Xi'an, CN.
 
 - 🌱 I’m currently learning ncnn ...
 - 🔭 I’m currently working on humanoid , computer vision ...
